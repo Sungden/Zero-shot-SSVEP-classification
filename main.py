@@ -468,7 +468,7 @@ var_CNN = np.var(PRmatrix_CNN)
 std_CNN = np.sqrt(var_CNN)
 itr_CNN = np.mean(PRmatrix_itr_CNN)
 itr_var_CNN = np.var(PRmatrix_itr_CNN)
-itr_std_CNN = np.sqrt(itr_var)   
+itr_std_CNN = np.sqrt(itr_var_CNN)   
 
 ####CNN+FBCCA
 PRmatrix_final_1 = PRmatrix_final_1 * 100

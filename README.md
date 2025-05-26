@@ -1,0 +1,1 @@
+This is the official code for reproducing our implementation in our paper, "CCA-Net: Zero-shot SSVEP classification via an integration of canonical correlation analysis and deep neural network." Please cite our paper if you use this code.
